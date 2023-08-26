@@ -1,5 +1,12 @@
 # Aditya Mittal's First CS193 Homework
 
+##Some of my favorite things about CS193
+- Run by students to produce a low-stress environment.
+- An essential teaching into the fundamentals needed for CS courses.
+- The friendly and suppportive students near me.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
